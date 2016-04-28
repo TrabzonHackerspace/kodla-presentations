@@ -1,5 +1,5 @@
 # Kodla 2016
-* [kodla.co](www.kodla.co)
+* [kodla.co](http://www.kodla.co/)
 
 ## Sunumlar ve Konuşmacılar
 * Neo4j, Cypher ve Kullanım Alanları
