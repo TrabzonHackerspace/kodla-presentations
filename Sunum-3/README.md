@@ -4,4 +4,5 @@
 
 ### İçerik
 
+* [Sunum](https://slides.com/ademilter)
 * [Video](#)
