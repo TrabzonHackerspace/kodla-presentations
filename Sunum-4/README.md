@@ -4,4 +4,4 @@
 
 ### İçerik
 
-* [Video](#)
+* [Video](https://www.youtube.com/watch?v=NvleszCT-XU)
