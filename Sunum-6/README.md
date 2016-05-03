@@ -1,6 +1,6 @@
 # Yazılım Test Teknikleri
 
-## Serhat Bolsu
+## Mehmet Bora Ezer - Yavuz Gürkan Yarar
 
 ### İçerik
 

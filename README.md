@@ -23,7 +23,7 @@
   - [Sunum ve Video](Sunum-5/)
 
 * Yazılım Test Teknikleri
-  - **Serhat Bolsu**
+  - **Mehmet Bora Ezer - Yavuz Gürkan Yarar**
   - [Sunum ve Video](Sunum-6/)
 
 * Crystal Lang (Programlama Dili)
