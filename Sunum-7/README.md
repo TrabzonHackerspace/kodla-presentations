@@ -5,4 +5,3 @@
 ### İçerik
 
 * [Sunum](http://slides.com/sdogruyol/crystal-ve-kemal#/)
-* [Video](#)
